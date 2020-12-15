@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-03T16:21:59.440Z</updated>
+  <updated>2020-12-15T09:12:09.660Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A Wonderful Night</title>
+    <link href="http://yoursite.com/2020/12/15/A-Wonderful-Night/"/>
+    <id>http://yoursite.com/2020/12/15/A-Wonderful-Night/</id>
+    <published>2020-12-15T09:12:09.000Z</published>
+    <updated>2020-12-15T09:12:09.660Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Python Numpy</title>
@@ -481,29 +496,6 @@
     <summary type="html">
     
       &lt;p&gt;想过，这段时间让我跳过去，不过了吧。早上起来搬着电脑到实验室，十点钟去上课，中午吃饭的时候洗头，然后开会，然后上课，实验室，晚上准备面试、大创项目、服务团队讲解、PSC… 上公交、下公交、上地铁、下地铁… 这些东西，你放弃了这些那些，你做出多少努力，最后还是没有任何结果的时候，应该如何去想呢。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2013.4.4</title>
-    <link href="http://yoursite.com/2015/04/04/2013-4-4/"/>
-    <id>http://yoursite.com/2015/04/04/2013-4-4/</id>
-    <published>2015-04-04T07:31:19.000Z</published>
-    <updated>2020-03-23T04:33:17.929Z</updated>
-    
-    <content type="html"><![CDATA[<p>本来并不想把它写成随笔形式…）</p><p>最近的状态真是奇怪，明明每天没有什么事情却觉得自己一直在忙的样子，到头来不知道自己在忙些什么。</p><p>在某次投简历过程中发现自己不适合所有工作，无技术无眼光，免不了悲观的在想我这三年都干了些什么呢？ 有没有一项技术叫”制造有趣回忆”人员？</p><a id="more"></a><p>有时候也不免又想，但且这样自由的玩下去吧，我的内心仿佛有很多开关，不同人们打开不同的开关，于是在行测里面我选择了“在不同场合对待不同人物”，于是这就上升到了一个很高级的姿态…</p><hr><p>这种最近的高度不自信的状态持续了好长好长时间了，没有任何应对措施，对于这种“每天忙又不知道在忙什么”的状态，暂且先想个办法试试来改变它。我想使我自己从内心里自信起来，这是我对这种改变的主要原因。</p><p>所以要看看下周会是什么样子了呢。呼。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;本来并不想把它写成随笔形式…）&lt;/p&gt;
-&lt;p&gt;最近的状态真是奇怪，明明每天没有什么事情却觉得自己一直在忙的样子，到头来不知道自己在忙些什么。&lt;/p&gt;
-&lt;p&gt;在某次投简历过程中发现自己不适合所有工作，无技术无眼光，免不了悲观的在想我这三年都干了些什么呢？ 有没有一项技术叫”制造有趣回忆”人员？&lt;/p&gt;
     
     </summary>
     
